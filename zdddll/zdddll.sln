@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simpledll", "simpledll\simpledll.vcxproj", "{3A671334-AA75-4A80-AD7F-55CC4C7D325F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usesimpledll", "usesimpledll\usesimpledll.vcxproj", "{90671273-D882-4C7A-A7C1-7F8C63F82C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A671334-AA75-4A80-AD7F-55CC4C7D325F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A671334-AA75-4A80-AD7F-55CC4C7D325F}.Debug|Win32.Build.0 = Debug|Win32
+		{3A671334-AA75-4A80-AD7F-55CC4C7D325F}.Release|Win32.ActiveCfg = Release|Win32
+		{3A671334-AA75-4A80-AD7F-55CC4C7D325F}.Release|Win32.Build.0 = Release|Win32
+		{90671273-D882-4C7A-A7C1-7F8C63F82C6A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{90671273-D882-4C7A-A7C1-7F8C63F82C6A}.Debug|Win32.Build.0 = Debug|Win32
+		{90671273-D882-4C7A-A7C1-7F8C63F82C6A}.Release|Win32.ActiveCfg = Release|Win32
+		{90671273-D882-4C7A-A7C1-7F8C63F82C6A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
